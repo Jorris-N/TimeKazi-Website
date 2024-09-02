@@ -1,0 +1,42 @@
+[
+    {
+        
+        "vacancy": "Internal Auditor",
+        "id": 1,
+        "company": "DUT CREDIT",
+        "city": "Voi",
+        "country": "Kenya",
+        "href":"#",
+        "img": "/images/categories/auditor.svg"
+    },
+    {
+        
+        "vacancy": "Marketing Director",
+        "id": 2,
+        "company": "DUT",
+        "city": "Voi",
+        "country": "Kenya",
+        "href":"#",
+        "img": "/images/categories/marketing.svg"
+    },
+    {
+        
+        "vacancy": "Biomedical Researcher",
+        "id": 3,
+        "company": "Daktari Biotech",
+        "city": "Voi",
+        "country": "Kenya",
+        "href":"#",
+        "img": "/images/categories/researcher.svg"
+    },
+    {
+        
+        "vacancy": "Managing Director",
+        "id": 4,
+        "company": "Ndara B Co.",
+        "city": "Voi",
+        "country": "Kenya",
+        "href":"#",
+        "img": "/images/categories/ndara.svg"
+    }
+]

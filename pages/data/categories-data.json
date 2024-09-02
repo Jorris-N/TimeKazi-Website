@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Web & Software Development",
+    "jobs":7,
+    "img": "/images/categories/web.svg"
+  },
+  
+  {
+    "id": 2,
+    "name": "accounting & finance",
+    "jobs":26,
+    "img": "/images/categories/account.svg"
+  },
+
+  {
+    "id": 3,
+    "name": "banking evaluation",
+    "jobs":24,
+    "img": "/images/categories/bank.svg"
+  },
+
+  {
+    "id": 4,
+    "name": "biomedical research",
+    "jobs":100,
+    "img": "/images/categories/biotech.svg"
+  },
+
+  {
+    "id": 5,
+    "name": "Sales & Marketing",
+    "jobs":150,
+    "img": "/images/categories/sales.svg"
+  },
+
+  {
+    "id": 6,
+    "name": "Graphics & Design",
+    "jobs":10,
+    "img": "/images/categories/ui.svg"
+  },
+
+  {
+    "id": 7,
+    "name": "Education & Training",
+    "jobs":1005,
+    "img": "/images/categories/edu.svg"
+  },
+
+  {
+    "id": 8,
+    "name": "Tourism & hospitality",
+    "jobs":200,
+    "img": "/images/categories/tour.svg"
+  },
+
+  {
+    "id": 9,
+    "name": "Engineering",
+    "jobs":5,
+    "img": "/images/categories/tour.svg"
+  },
+
+  {
+    "id": 10,
+    "name": "Geology & Survey",
+    "jobs":10,
+    "img": "/images/categories/survey.svg"
+  },
+  
+  {
+    "id": 11,
+    "name": "Logistics",
+    "jobs":350,
+    "img": "/images/categories/truck.svg"
+  }
+
+]
