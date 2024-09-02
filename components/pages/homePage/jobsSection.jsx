@@ -5,7 +5,7 @@ import jobData from '../../../pages/data/jobs-data.json';
 import Image from 'next/image';
 
 const ConditionalWrapper = ({ children, condition }) => {
-    return condition < 0 ? (
+    return condition > 0 ? (
         <div className=''>{children}</div>
     ) : (
         <div className='w-full mx-auto'>
